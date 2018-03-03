@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">QR Firebase</string>
+    <string name="th_register">ลงทะเบียน : </string>
+    <string name="sub_register">Please fill all blank.</string>
 </resources>

@@ -64,6 +64,8 @@
 
         <!--Register Text-->
         <TextView
+            android:clickable="true"
+            android:id="@+id/txtNewRegister"
             android:textStyle="italic"
             android:textSize="@dimen/h2"
             android:textColor="@color/colorAccent"
