@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:\Data\github\t1804_QRFirebase\QRFirebase.iml" filepath="C:\Data\github\t1804_QRFirebase\QRFirebase.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Data\github\t1804_QRFirebase\app\app.iml" filepath="C:\Data\github\t1804_QRFirebase\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/t1804_QRFirebase.iml" filepath="$PROJECT_DIR$/t1804_QRFirebase.iml" />
     </modules>
   </component>
